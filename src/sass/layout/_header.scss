@@ -1,0 +1,10 @@
+.header {
+  background-color: var(--color-primary);
+  color: var(--color-silk-white);
+  padding: 4.8rem;
+  text-align: center;
+
+  &__title {
+    font-size: 3rem;
+  }
+}
